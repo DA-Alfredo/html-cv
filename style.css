@@ -1,0 +1,28 @@
+body {
+  background-color: #22272b;
+}
+
+img {
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+}
+
+h1 {
+  color: #8fa6b4;
+}
+
+a {
+  color: rgba(40, 115, 185, 0.8);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h3 {
+  color: #a5b8c5;
+}
+
+td, li {
+  color: #788a96;
+}
+
