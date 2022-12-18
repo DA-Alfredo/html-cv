@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Mesh Raj CV</title>
+  <link rel="stylesheet", href="style.css">
+  <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+</head>
+
+<body>
+
+    <py-config>
+        packages = ["json", "requests"]
+    </py-config>
+
+    <py-script>
+        print('Hello, World!')
+    </py-script>
+
+</body>
+
+</html>
